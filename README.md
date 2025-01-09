@@ -21,3 +21,13 @@ Visit the rules and programming FAQ at: [`github.com/PSH-Computing-AI-club/compe
 Visit the scripting API documentation at: [`PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes`](https://PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes)
 
 Alternatively, if the above resources do not solve your problem, visit the `#CHANNEL-NAME-HERE` channel in the club's Discord.
+
+## Related Repositories
+
+- [`github.com/PSH-Computing-AI-club/competition-spring-2025`](https://github.com/PSH-Computing-AI-club/competition-spring-2025)
+
+- [`github.com/PSH-Computing-AI-club/competition-spring-2025-bracket`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-bracket)
+
+- [`github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes)
+
+- [`github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes-template-javascript`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes-template-javascript)
