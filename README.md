@@ -16,7 +16,7 @@ The following players are not submitted. They are samples for to help you figure
 
 ## Need Help?
 
-Visit the rules and programming FAQ at: [`github.com/PSH-Computing-AI-club/competition-spring-2025`](https://github.com/PSH-Computing-AI-club/competition-spring-2025)
+Visit the competition FAQs at: [`github.com/PSH-Computing-AI-club/competition-spring-2025`](https://github.com/PSH-Computing-AI-club/competition-spring-2025)
 
 Visit the scripting API documentation at: [`PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes`](https://PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes)
 
