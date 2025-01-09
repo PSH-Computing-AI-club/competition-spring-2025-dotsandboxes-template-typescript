@@ -8,7 +8,7 @@ The player that will be used as your submission is the `mod.ts` file.
 
 ## Sample AI Players
 
-The following players are not submitted. They are samples for to help you figure out how to get started:
+The following players are not submitted. They are samples for helping you figure out how to get started:
 
 - `first_opening_player.ts`
 - `random_player.ts`
