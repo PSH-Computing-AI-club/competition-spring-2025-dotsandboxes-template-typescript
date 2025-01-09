@@ -20,7 +20,7 @@ Visit the competition FAQs at: [`github.com/PSH-Computing-AI-club/competition-sp
 
 Visit the scripting API documentation at: [`PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes`](https://PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes)
 
-Alternatively, if the above resources do not solve your problem, visit the `#CHANNEL-NAME-HERE` channel in the club's Discord.
+Alternatively, if the above resources do not solve your problem, visit the `#CHANNEL-NAME-HERE` channel on the club's Discord.
 
 ## Related Repositories
 
