@@ -31,3 +31,5 @@ Alternatively, if the above resources do not solve your problem, visit the `#CHA
 - [`github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes)
 
 - [`github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes-template-javascript`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes-template-javascript)
+
+- [`github.com/PSH-Computing-AI-club/competition-spring-2025-placeholder-competitor`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-placeholder-competitor)
