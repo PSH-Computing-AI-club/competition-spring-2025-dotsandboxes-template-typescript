@@ -10,8 +10,11 @@ The player that will be used as your submission is the `mod.ts` file.
 
 The following players are not submitted. They are samples for helping you figure out how to get started:
 
+- `edging_player.ts`
 - `first_opening_player.ts`
+- `greedy_player.ts`
 - `random_player.ts`
+- `split_personality_player.ts`
 - `strategic_player.ts`
 
 ## Need Help?
